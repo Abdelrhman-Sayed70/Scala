@@ -1,16 +1,16 @@
 # `Scala | Exam C`
-- Create a package that contains the following two classes:
-  - Create person class that has:
-    - Primary parametrized constructor that takes 3 parameters. Name as a string. Age as an integer, and gender as a char. to set the attributes values    
-    - Name and gender are immutable variables and can be accessed inside the package only.
-    - printInfo function that prints all the person info.
+### Create a package that contains the following two classes:
+- Create person class that has:
+  - Primary parametrized constructor that takes 3 parameters. Name as a string. Age as an integer, and gender as a char. to set the attributes values    
+  - Name and gender are immutable variables and can be accessed inside the package only.
+  - printInfo function that prints all the person info.
 
 
-  - Create Kid class that inherit the person class. The kid class has:
-    - primary constructor that takes 4 parameters, name as a string age as an integer, gender as a char, and schoolName as a string.
-    - printInfo function that prints all the kid info.
+- Create Kid class that inherit the person class. The kid class has:
+  - primary constructor that takes 4 parameters, name as a string age as an integer, gender as a char, and schoolName as a string.
+  - printInfo function that prints all the kid info.
 
-- Main
+### Main
   - Create 2 objects of kid class by reading the objects data from the user. 
   - Add the objects in the list.
   - Call the printInfo function in each element of the list using one of the built-in high order functions. 
