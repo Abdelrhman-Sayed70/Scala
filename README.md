@@ -1,2 +1,2 @@
-# Scala
- **Learn scala programming language & OOP using it. <br> Supported with source code for scala syntax and OOP concepts.**
+# Scala 
+### *Scala Course at FCIS-ASU Contains* `Labs` `Hands on`  `Quizzes` `Practical Exams`
