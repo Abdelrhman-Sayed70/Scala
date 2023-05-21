@@ -4,6 +4,8 @@
     - Primary parametrized constructor that takes 3 parameters. Name as a string. Age as an integer, and gender as a char. to set the attributes values    
     - Name and gender are immutable variables and can be accessed inside the package only.
     - printInfo function that prints all the person info.
+
+
   - Create Kid class that inherit the person class. The kid class has:
     - primary constructor that takes 4 parameters, name as a string age as an integer, gender as a char, and schoolName as a string.
     - printInfo function that prints all the kid info.
