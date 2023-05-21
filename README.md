@@ -1,2 +1,2 @@
 # Scala
- **Learn scala programming language concepts with source code for each concept**
+ **Learn scala programming language & OOP using it. Supported with source code for scala syntax and OOP Concepts**
