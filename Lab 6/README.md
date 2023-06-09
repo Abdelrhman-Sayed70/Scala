@@ -100,6 +100,13 @@ arr.foreach(println); // 4 3 2 1
 val sortedArr = arr.sorted;
 sortedArr.foreach(println);  // 1 2 3 4
 ```
+#### Array in scala are mutable, indexed collections of values
+```scala
+val arr = Array(1,2,3);
+arr(0) = 10 ;
+print(arr(0)); // 10
+```
+
 ## `List`
 ```scala
 val lst = List(1,4,2);
